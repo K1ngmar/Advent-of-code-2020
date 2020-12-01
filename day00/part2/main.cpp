@@ -2,7 +2,7 @@
 #include <iostream>
 #include <fstream>
 #include <sstream>
-#include "../colors.h/colors.h"
+#include "../../colors.h/colors.h"
 
 
 static int lineCount(std::ifstream &file)
@@ -19,11 +19,13 @@ static int lineCount(std::ifstream &file)
 
 static unsigned int getAnswer(int *arr, unsigned int length)
 {
-	for (unsigned int i = 0; i < length - 1; i++) {
-		for (unsigned int j = i + 1; j < length; j++) {
-			if (arr[i] + arr[j] == 2020) {
-				std::cout << COLOR_RED << arr[i] << COLOR_YELLOW << " + " << COLOR_GREEN << arr[j] << std::endl;
-				return (arr[i] * arr[j]);
+	for (unsigned int i = 0; i < length - 2; i++) {
+		for (unsigned int j = i + 1; j < length - 1; j++) {
+			for (unsigned int k = j + 1; k < length; k++) {
+				if (arr[i] + arr[j] + arr[k] == 2020) {
+					std::cout << COLOR_RED << arr[i] << COLOR_YELLOW << " + " << COLOR_GREEN << arr[j] << COLOR_YELLOW << " + " << COLOR_PINK << arr[k] << std::endl;
+					return (arr[i] * arr[j] * arr[k]);
+				}
 			}
 		}
 	}
@@ -50,7 +52,7 @@ static std::string readAndCalc(std::string fileName)
 	input.close();
 	if (thehekku == 2020)
 		return (answer);
-	std::cout << thehekku << std::endl;
+	std::cout << COLOR_YELLOW << thehekku << std::endl;
 	return ("");
 	
 }
