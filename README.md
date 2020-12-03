@@ -2,24 +2,24 @@
 make me go yos! heckin christmas vibes
 
            ✨            ,
-                       _<div class=bg-green>/</div>^\_
+                       _/^\_
                       <     >
-     ✨                <div class=bg-green>/</div>.-.\        ✨
-            ✨         v`<div class=bg-green>/</div>&\`                  ✨
+     ✨                /.-.\        ✨
+            ✨         v`/&\`                  ✨
                       ,@.*;@,
-                     <div class=bg-green>/</div>_o.I %_\   ✨
+                     /_o.I %_\   ✨
        ✨           (`'--:o(_@;
-                   <div class=bg-green>/</div>`;--.,__ `')            ✨
+                   /`;--.,__ `')            ✨
                   ;@`o % O,*`'`&\
            ✨    (`'--)_@ ;o %'()\     ✨
-                 <div class=bg-green>/</div>`;--._`''--._O'@;
-                <div class=bg-green>/</div>&*,()~o`;-.,_ `""`)
-    ✨          <div class=bg-green>/</div>`,@ ;+& () o*`;-';\
+                 /`;--._`''--._O'@;
+                /&*,()~o`;-.,_ `""`)
+    ✨          /`,@ ;+& () o*`;-';\
                (`""--.,_0 +% @' &()\
-               <div class=bg-green>/</div>-.,_    ``''--....-'`) ✨
-         ✨    <div class=bg-green>/</div>@%;o`:;'--,.__   __.'\
+               /-.,_    ``''--....-'`) ✨
+         ✨    /@%;o`:;'--,.__   __.'\
               ;*,&(); @ % &^;~`"`o;@();        ✨
-              <div class=bg-green>/</div>(); o^~; & ().o@*&`;&%O\
+              /(); o^~; & ().o@*&`;&%O\
         jgs   `"="==""==,,,.,="=="==="`
            __.----.(\-''#####---...___...-----._
          '`         \)_`"""""`
